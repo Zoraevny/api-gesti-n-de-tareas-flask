@@ -36,7 +36,24 @@ La función es dar tanto los proyectos junto con todas las tareas que contiene c
 ### eliminar
 Elimina el proyecto generado por el usuario
 
+## Tareas
+### tareas
+El archivo contiene todas las importaciones que usan los archivos de la misma carpeta
 
+### create_tarea
+El archivo crea una tarea, pero es como añadirla fuera del proyecto
+
+### actualizar
+El archivo actualiza los nuevos valores a los datos ya colocados
+
+### eliminar_tarea
+El archivo elimina una tarea de un respectivo proyecto
+
+### obtener_tarea
+El archivo me da todas las taras de un proyecto
+
+### estadisticas
+Me envía toda la información que contiene un proyecto (cantidad de tareas, cantidad de tareas completadas, etc)
 
 
 
